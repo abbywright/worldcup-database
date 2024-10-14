@@ -2,7 +2,7 @@
 
 Create a Bash script that enters information from World Cup games into PostgreSQL, then query the database for useful statistics.
 
-#### Subtasks
+### Subtasks
 
 - Create a database named `worldcup`
 - **Connect to your worldcup database** and then create `teams` and `games` tables
